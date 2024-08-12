@@ -13,6 +13,13 @@
     "brain-games": "bin/brain-games.js"
   },
   "dependencies": {
+    "eslint-plugin-import": "^2.29.1",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "globals": "^15.9.0"
   }
 }
